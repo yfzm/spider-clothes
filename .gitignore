@@ -1,0 +1,7 @@
+.idea/
+data/
+chromedriver.exe
+*.pyc
+venv/
+test.py
+log.json
